@@ -56,5 +56,5 @@ def find_blobs(img):
 
 # driver code
 if __name__ == '__main__':
-    find_blobs("test1.jpg")    # mug
-    find_blobs("test2.jpg")    # person
+    find_blobs("images/test1.jpg")    # mug
+    find_blobs("images/test2.jpg")    # person
